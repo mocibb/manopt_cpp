@@ -1,0 +1,4 @@
+.vscode/
+build
+bazel-*
+CMakeLists.txt.user
